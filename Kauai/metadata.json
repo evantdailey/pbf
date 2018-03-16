@@ -1,0 +1,12 @@
+{
+    "name": "Kauai",
+    "description": "Kauai",
+    "version": "2",
+    "minzoom": "0",
+    "maxzoom": "14",
+    "center": "-159.510498,22.217920,14",
+    "bounds": "-160.251900,21.779800,-159.293400,22.229000",
+    "type": "overlay",
+    "format": "pbf",
+    "json": "{\"vector_layers\": [ { \"id\": \"kauaigeo\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 14, \"fields\": {\"kind\": \"String\", \"name\": \"String\", \"state\": \"String\"} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"kauaigeo\",\"count\": 1,\"geometry\": \"Polygon\",\"attributeCount\": 3,\"attributes\": [{\"attribute\": \"kind\",\"count\": 1,\"type\": \"string\",\"values\": [\"county\"]},{\"attribute\": \"name\",\"count\": 1,\"type\": \"string\",\"values\": [\"Kauai\"]},{\"attribute\": \"state\",\"count\": 1,\"type\": \"string\",\"values\": [\"HI\"]}]}]}}"
+}
